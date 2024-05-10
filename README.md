@@ -11,7 +11,7 @@ This project includes a Solana smart contract and a Next.js frontend for managin
    ```
 2. Install dependencies:
    ```
-   cd solana_presale_dapp
+   cd solana-presale-dapp
    npm install
    ```
 3. Build and deploy the smart contract (adjust with actual deployment commands):
