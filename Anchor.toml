@@ -1,0 +1,13 @@
+
+[programs.localnet]
+presale_contract = "Fg6PaF8VFq6gUhinq1qt7znkemXui3eYcmPQPKzDWvQy"
+
+[registry]
+url = "https://github.com/project-serum/anchor"
+
+[provider]
+cluster = "localnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "anchor test"
