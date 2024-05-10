@@ -14,6 +14,11 @@ This project includes a Solana smart contract and a Next.js frontend for managin
    cd solana-presale-dapp
    npm install
    ```
+   Install solana & anchor:
+   ```
+   Follow the steps here to install rust, avm, anchor and all dependencies
+   https://book.anchor-lang.com/getting_started/installation.html
+   ```
 3. Build and deploy the smart contract (adjust with actual deployment commands):
    ```
    anchor build
